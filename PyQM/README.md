@@ -4,7 +4,9 @@
 
 
 ## Description
-..........
+Welcome to Python for Quantum Mechanics. This course was designed to give you a solid foundation in the Python programming language for your studies in Quantum Technology. The course is six weeks long in total, and builds from the ground up a working knowledge of Python, with emphasis on the Numpy, Matplotlib and Scipy libraries. The first three weeks entail the building of a foundation, where you will learn how to manipulate basic data types in the first week, all the way to object-oriented programming in the third week. The final three weeks involve a deep dive into the afore-mentioned libraries.
+
+The course material will be hosted on github, and includes a complete set of jupyter notebooks along with pre-recorded lectures contained in YouTube playlists. There will be a live tutorial each week on a Discord server. This server also serves as a place of communication, where questions can be asked and discussions held.
 
 ## Installation & Requirements
 - Python – [Installation and Setup Guide](https://realpython.com/installing-python/)
