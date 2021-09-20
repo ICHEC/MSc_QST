@@ -18,11 +18,11 @@ The course material will be hosted on github, and includes a complete set of jup
 
 ## Contents
 1. Fundamentals – [[Notebooks]](PyQM_Week1/  )   [[Videos]](https://youtu.be/pgmlyCZ52Dk)
-2. Flow Control and I/O – [[Notebooks]](https://git.ichec.ie/qpcc/qpcc/-/blob/master/PyQM/PyQM_Week2/  )  [[Videos]](https://youtu.be/pgmlyCZ52Dk)
-3. Functions and Classes – [[Notebooks]](https://git.ichec.ie/qpcc/qpcc/-/blob/master/PyQM/PyQM_Week3/  ) [[Videos]](https://youtu.be/pgmlyCZ52Dk)
-4. Numpy – [[Notebooks]](https://git.ichec.ie/qpcc/qpcc/-/blob/master/PyQM/PyQM_Week4/  ) [[Videos]](https://youtu.be/pgmlyCZ52Dk)
-5. Matplotlib – [[Notebooks]](https://git.ichec.ie/qpcc/qpcc/-/blob/master/PyQM/PyQM_Week5/  ) [[Videos]](https://youtu.be/pgmlyCZ52Dk)
-6. Scipy – [[Notebooks]](https://git.ichec.ie/qpcc/qpcc/-/blob/master/PyQM/PyQM_Week6/  ) [[Videos]](https://youtu.be/pgmlyCZ52Dk)
+2. Flow Control and I/O – [[Notebooks]](PyQM/PyQM_Week2/  )  [[Videos]](https://youtu.be/pgmlyCZ52Dk)
+3. Functions and Classes – [[Notebooks]](PyQM_Week3/  ) [[Videos]](https://youtu.be/pgmlyCZ52Dk)
+4. Numpy – [[Notebooks]](PyQM_Week4/  ) [[Videos]](https://youtu.be/pgmlyCZ52Dk)
+5. Matplotlib – [[Notebooks]](PyQM_Week5/  ) [[Videos]](https://youtu.be/pgmlyCZ52Dk)
+6. Scipy – [[Notebooks]](PyQM_Week6/  ) [[Videos]](https://youtu.be/pgmlyCZ52Dk)
 
 
 ## Contact
