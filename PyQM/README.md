@@ -21,7 +21,7 @@ The course material will be hosted on github and includes a folder for each week
 2. Flow Control – [[Folder]](PyQM_Week2/  )
 3. Functions and Classes - [[Folder]](PyQM_Week3/  )
 4. Numpy - [[Folder]](PyQM_Week4/  )
-5. Matplotlib
+5. Matplotlib - [[Folder]](PyQM_Week5/  )
 6. Scipy
 
 
