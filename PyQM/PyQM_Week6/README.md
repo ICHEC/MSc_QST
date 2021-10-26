@@ -36,7 +36,7 @@
 - The Bloch Sphere
 
 
-## 6.4 - Scipy ODEs & PDEs - [[Notebook]](Week6_Notebooks/PyQM_6.5_Scipy_ODE_PDE.ipynb) - [[Video]](https://youtu.be/W6iLi9I90OM)   
+## 6.4 - Scipy ODEs & PDEs - [[Notebook]](Week6_Notebooks/PyQM_6.4_Scipy_ODE_PDE.ipynb) - [[Video]](https://youtu.be/W6iLi9I90OM)   
 
 - Integration
 - ODE
