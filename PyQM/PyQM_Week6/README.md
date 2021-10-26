@@ -1,6 +1,6 @@
 # Week 6 Contents
 
-## [6.1 - Scipy Linear Algebra - [[Notebook]](Week6_Notebooks/PyQM_6.1_Scipy_Linear_Algebra.ipynb) - [[Video]](https://youtu.be/EQWi8rliCqY)
+## 6.1 - Scipy Linear Algebra - [[Notebook]](Week6_Notebooks/PyQM_6.1_Scipy_Linear_Algebra.ipynb) - [[Video]](https://youtu.be/EQWi8rliCqY)
 
 
 - Linear Systems
