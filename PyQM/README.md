@@ -22,7 +22,7 @@ The course material will be hosted on github and includes a folder for each week
 3. Functions and Classes - [[Folder]](PyQM_Week3/  )
 4. Numpy - [[Folder]](PyQM_Week4/  )
 5. Matplotlib - [[Folder]](PyQM_Week5/  )
-6. Scipy- [[Folder]](PyQM_Week6/  )
+6. Scipy - [[Folder]](PyQM_Week6/  )
 
 
 ## Contact
